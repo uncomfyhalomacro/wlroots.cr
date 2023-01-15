@@ -1,0 +1,9 @@
+name: wlroots
+version: 0.1.0
+
+authors:
+  - Soc Virnyl S. Estela <socvirnyl.estela@gmail.com>
+
+crystal: 1.7.0
+
+license: MIT
